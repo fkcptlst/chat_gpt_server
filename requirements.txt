@@ -1,0 +1,7 @@
+fastapi
+pydantic
+loguru
+uvicorn
+revChatGPT
+pyyaml
+retry
